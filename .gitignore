@@ -1,0 +1,6 @@
+.build/
+dist/
+.codex/
+.DS_Store
+QA/VisualFixtures/current/
+QA/VisualFixtures/diff/
